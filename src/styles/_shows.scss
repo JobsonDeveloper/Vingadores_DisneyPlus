@@ -147,6 +147,10 @@
             grid-template-columns: 1fr 1fr;
             column-gap: 24px;
 
+            @media (max-width: 1023px) {
+                grid-template-columns: 1fr;
+            }
+
             &--is-active {
                 display: grid;
             }
