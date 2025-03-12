@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://vingadores-disney-plus.vercel.app/)
 
 ### Ferramentas utiliizadas:
