@@ -14,6 +14,11 @@ Site que tem como tema um dos meus filmes favoritos, criado como um dos desafios
 <br/>
 <br/>
 <br/>
+![image](https://github.com/user-attachments/assets/dc1feeab-461f-4f3c-8fcc-6613f692ce0b)
+<br/>
+<br/>
+<br/>
+<br/>
 ![image](https://github.com/user-attachments/assets/963747d4-5375-43e9-860a-c8891ff775b8)
 <br/>
 <br/>
